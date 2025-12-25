@@ -79,4 +79,5 @@ else:
 
 # --- Footer ---
 st.divider()
-st.markdown("Developed by **Daniel Asher** | Mahasiswa Matematika - Data Analytics Portfolio")
+
+st.markdown("Developed by **Daniel Asher Pribadi** | Mahasiswa Matematika - Data Analytics Portfolio")
